@@ -95,7 +95,7 @@ body {
   height: 155px;
 }
 @media (min-width: 1000px) {
-  div#video iframe {
+  #vid-iframe {
     width: 100%;
     height: 350px;
   }

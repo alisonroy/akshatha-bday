@@ -315,7 +315,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "MUSIC.mp4");
+  ifrm.setAttribute("src", "videos/main.mp4");
   ifrm.style.border = "none";
   document.querySelector("#video").appendChild(ifrm);
 }

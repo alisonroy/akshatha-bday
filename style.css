@@ -37,6 +37,7 @@ div#video {
   position: absolute;
   right: 1rem;
   bottom: 1rem;
+  background: #000;
 }
 
 div#video iframe {
@@ -157,6 +158,11 @@ div#video iframe {
   width: 100%;
   text-align: center;
 }
+
+.icons a {
+  text-decoration: none;
+}
+
 .icons .row span {
   color: #e5e5e5;
   text-shadow: 4px 4px 0 rgba(96, 125, 139, 0.4);

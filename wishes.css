@@ -39,6 +39,9 @@ button:active {
     inset 0 0 0 225px rgba(0, 0, 0, 0.5), 0 0 10px #000;
   transform: translateY(5px);
 }
+#akshu {
+  background: url("images/akshu.png") center center/cover !important;
+}
 #harsh {
   background: url("images/harsh.jpeg") center center/cover !important;
 }
@@ -89,6 +92,9 @@ button:active {
 }
 #adarsh {
   background: url("images/adarsh.png") center center/cover !important;
+}
+#anjali {
+  background: url("images/anjali.jpeg") center center/cover !important;
 }
 
 * {
